@@ -1,0 +1,9 @@
+c:\users\ashiwin\documents\visual studio 2012\Projects\AshSimpleCalculator2\AshSimpleCalculator2\bin\Debug\AshSimpleCalculator2.exe.config
+c:\users\ashiwin\documents\visual studio 2012\Projects\AshSimpleCalculator2\AshSimpleCalculator2\bin\Debug\AshSimpleCalculator2.XML
+c:\users\ashiwin\documents\visual studio 2012\Projects\AshSimpleCalculator2\AshSimpleCalculator2\bin\Debug\AshSimpleCalculator2.exe
+c:\users\ashiwin\documents\visual studio 2012\Projects\AshSimpleCalculator2\AshSimpleCalculator2\bin\Debug\AshSimpleCalculator2.pdb
+c:\users\ashiwin\documents\visual studio 2012\Projects\AshSimpleCalculator2\AshSimpleCalculator2\bin\Debug\FSharp.Core.dll
+c:\users\ashiwin\documents\visual studio 2012\Projects\AshSimpleCalculator2\AshSimpleCalculator2\bin\Debug\FSharp.Core.xml
+c:\users\ashiwin\documents\visual studio 2012\Projects\AshSimpleCalculator2\AshSimpleCalculator2\obj\Debug\AshSimpleCalculator2.fsprojResolveAssemblyReference.cache
+c:\users\ashiwin\documents\visual studio 2012\Projects\AshSimpleCalculator2\AshSimpleCalculator2\obj\Debug\AshSimpleCalculator2.exe
+c:\users\ashiwin\documents\visual studio 2012\Projects\AshSimpleCalculator2\AshSimpleCalculator2\obj\Debug\AshSimpleCalculator2.pdb
